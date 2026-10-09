@@ -1,0 +1,6 @@
+:root { font-family: system-ui, sans-serif; color: #172033; background: #f6f7f9; }
+body { margin: 0; }
+.container { max-width: 960px; margin: 0 auto; padding: 64px 24px; }
+.hero { background: white; border: 1px solid #e5e7eb; border-radius: 16px; padding: 40px; }
+.eyebrow { font-weight: 700; }
+.status { margin-top: 24px; }
